@@ -1,0 +1,16 @@
+#columna{
+    width: 30px;
+    height: 50px;
+    background-color: aqua;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    
+}
+
+
+
+
+#cont{
+    width: 50%;
+}
